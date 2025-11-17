@@ -1,6 +1,6 @@
-Food App – React.js (Namaste React Inspired)
+Food App – React.js
 
-A modern and responsive Food Ordering Web Application built using React.js, Redux Toolkit, and Tailwind CSS, inspired by the Namaste React course. The application allows users to browse restaurants, view menus, add items to cart, and manage their order flow.
+A modern and responsive Food Ordering Web Application built using React.js, Redux Toolkit, and Tailwind CSS. The application allows users to browse restaurants, view menus, add items to cart, and manage their order flow.
 
 🚀 Features
 
